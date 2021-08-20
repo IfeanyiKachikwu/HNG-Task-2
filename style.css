@@ -1,0 +1,54 @@
+body{
+    background:url("bkimage.jpg")
+}
+a{
+    display:block;
+}
+article{
+    display:flex;
+ 
+}
+main{
+    background:#ddd;
+    width:100%;
+}
+
+.skillsTab{
+    display:flex;
+}
+
+.home{
+    text-decoration: none;
+}
+.skillsTab > a{
+    background:#444;
+    color:white;
+    margin:5px;
+    padding:5px;
+    text-decoration:none;
+}
+
+.skillsTab{
+    margin:10px auto;
+}
+
+.article{
+    margin:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#444;
+}
+
+h1{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#444;
+}
+
+.skills{
+    display:block;
+    
+}
+
+.skills > a{
+    width:100px;
+}
